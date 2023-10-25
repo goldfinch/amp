@@ -11,7 +11,6 @@
     }],
     "require": {
         "silverstripe/framework": "4.* | 5.*",
-        "silverstripers/seo": "*",
         "masterminds/html5": "^2.8.1",
         "lullabot/amp": "^2.0",
         "deimosindustries/lullabot-amp": "dev-main"
